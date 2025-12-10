@@ -4,7 +4,7 @@
 
 ## ✨ Features
 * **Protocol Automation:** Automatically wraps data with start/end markers (`0xC0`).
-* **Flexible Stream Support:** Works with `Serial`, `Serial1` (Hardware), and `SoftwareSerial`.
+* **Flexible Stream Support:** Works with `Serial`, `Serial1` (Hardware).
 * **Easy Data Handling:** Simple `send` and `listen` commands.
 
 ## 📦 Installation
